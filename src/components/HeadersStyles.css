@@ -1,0 +1,30 @@
+.App{
+    text-align: center;
+}
+.header-heading{
+    font-size: 40px;
+    color: white;
+}
+.header-container{
+    background-color: darkblue;
+    margin: 0;
+    
+}
+.nav-bar-container{
+    background-color: black;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-bar-container ul{
+    list-style: none;
+    padding-top:3vh;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-bar-container ul li{
+    display: inline;
+    text-decoration: none;
+    font-size: 25px;
+}

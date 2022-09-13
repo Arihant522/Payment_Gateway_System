@@ -1,0 +1,18 @@
+.about-container{
+    margin-left: 20vw;
+    /* background-image: url("../assests/aboutimage.png"); */
+    height: 80vh;
+    width: 50vw;
+    position: relative;
+    /* background-repeat: no-repeat;
+    background-size: contain; */
+}
+.about-background{
+    background-image: url("../assests/aboutimage.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 40vw;
+    z-index: -10;
+    position:absolute;
+}
